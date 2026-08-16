@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0097-interleaving-string) |
 ## Tree
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0112-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
