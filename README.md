@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0097-interleaving-string](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0097-interleaving-string) |
+| [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
