@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
