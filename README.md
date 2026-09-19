@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0035-search-insert-position) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
