@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
