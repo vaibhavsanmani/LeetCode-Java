@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0097-interleaving-string) |
 | [0389-find-the-difference](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0054-spiral-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -138,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/vaibhavsanmani/LeetCode-Java/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
